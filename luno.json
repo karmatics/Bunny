@@ -1,0 +1,36 @@
+{
+  "name": "Bunny",
+  "version": "1.0.0",
+  "description": "Interactive web dialog and basics application (Forked from BasicsWithDialogBox)",
+  "type": "luno-web-app",
+  "mainClass": "Bunny",
+  "entrypoint": {
+    "file": "js/Bunny.js",
+    "class": "Bunny",
+    "method": "run"
+  },
+  "main": [
+    "js/Bunny.js"
+  ],
+  "library": [
+    "DomBasics.js",
+    "UITools.js"
+  ],
+  "styles": [
+    "css/basicsWithDialogBox.css"
+  ],
+  "processedCountSinceCheckpoint": 1,
+  "changedMethods": {
+    "Bunny/js/Bunny.js": "2026-08-24T18:34:07.900Z",
+    "Bunny/luno.json": "2026-08-24T18:24:38.420Z",
+    "Bunny/index.html": "2026-08-24T18:24:38.420Z",
+    "Library/DomBasics.js.bak": "2026-08-24T18:48:35.375Z",
+    "Library/DomBasics.js": "2026-08-24T18:48:35.375Z",
+    "Library/UITools.js.bak": "2026-08-24T18:48:35.375Z",
+    "Library/UITools.js": "2026-08-24T18:48:35.375Z",
+    "LunoPatchLog.html": "2026-08-24T18:48:35.375Z",
+    "js/Bunny.js": "2026-10-26T05:33:53.184Z"
+  },
+  "lastCheckpointTime": "2026-10-26T05:30:04.592Z",
+  "pendingCheckpointDescription": "Clean fork initialized from BasicsWithDialogBox"
+}
